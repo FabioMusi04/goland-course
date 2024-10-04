@@ -1,4 +1,6 @@
-package main //package used to group functions and data together (pkg.go.dev)
+//go mod init filename
+
+package main //package used to group functions and data together (pkg.go.dev) main is entry point of the program
 
 import (
 	"fmt" //format text package (console)
