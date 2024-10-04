@@ -1,5 +1,0 @@
-module example/hello
-
-go 1.23.2
-
-// used like package.json to store dependencies
